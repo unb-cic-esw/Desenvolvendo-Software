@@ -7,7 +7,3 @@ Muitos aspectos estão envolvidos no desenvolvimento de software funcional e de 
 # Disciplina Engenharia de Software 2018/01 - CIC - UnB
 
 [Wiki com programa completo da disciplina (+slides)](https://github.com/unb-cic-esw/Desenvolvendo-Software/wiki)
-
-# Cliente 2018/01
-
-* [Observatório das eleições 2018, Resocie, IPOL-UnB](https://resocie.github.io/)
